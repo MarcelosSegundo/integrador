@@ -41,56 +41,51 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDt4PVUlzp-KXNFw7iLxw3Johqx99Yp48Y',
-    appId: '1:1064990210827:web:144725b0f2bc67432a000e',
-    messagingSenderId: '1064990210827',
-    projectId: 'projetointegrador-4fabf',
-    authDomain: 'projetointegrador-4fabf.firebaseapp.com',
-    databaseURL: 'https://projetointegrador-4fabf-default-rtdb.firebaseio.com',
-    storageBucket: 'projetointegrador-4fabf.firebasestorage.app',
-    measurementId: 'G-EBMWTYW189',
+    apiKey: 'AIzaSyAkrzQA5TEMNyJeg15FVSxk3rTGthuZkpA',
+    appId: '1:300037370787:web:2770aae3c81908a06a6016',
+    messagingSenderId: '300037370787',
+    projectId: 'icev-97775',
+    authDomain: 'icev-97775.firebaseapp.com',
+    databaseURL: 'https://icev-97775-default-rtdb.firebaseio.com',
+    storageBucket: 'icev-97775.firebasestorage.app',
+    measurementId: 'G-1LGKJDXN2T',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAPn3GgeHFiyR3f_PXw5A7m3UiPbUhePHQ',
-    appId: '1:1064990210827:android:089542472c37bfa52a000e',
-    messagingSenderId: '1064990210827',
-    projectId: 'projetointegrador-4fabf',
-    databaseURL: 'https://projetointegrador-4fabf-default-rtdb.firebaseio.com',
-    storageBucket: 'projetointegrador-4fabf.firebasestorage.app',
+    apiKey: 'AIzaSyCg8M9CdOQdy2AbFCvJnBiMkvkiTc_jjlk',
+    appId: '1:300037370787:android:123691171fcec8546a6016',
+    messagingSenderId: '300037370787',
+    projectId: 'icev-97775',
+    databaseURL: 'https://icev-97775-default-rtdb.firebaseio.com',
+    storageBucket: 'icev-97775.firebasestorage.app',
   );
-
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCy4bWdbAFxRrHXKpGP4YVSoMZ91A0wGtI',
-    appId: '1:1064990210827:ios:06d573d95ec0ab432a000e',
-    messagingSenderId: '1064990210827',
-    projectId: 'projetointegrador-4fabf',
-    databaseURL: 'https://projetointegrador-4fabf-default-rtdb.firebaseio.com',
-    storageBucket: 'projetointegrador-4fabf.firebasestorage.app',
-    iosClientId: '1064990210827-rt95q1tam0okjgvtbpbj62fp9fofhdm4.apps.googleusercontent.com',
+    apiKey: 'AIzaSyCFIgP1Q96E6QaReOQjenz_WcCxEsfdLg8',
+    appId: '1:300037370787:ios:7dddc990d5da56cb6a6016',
+    messagingSenderId: '300037370787',
+    projectId: 'icev-97775',
+    databaseURL: 'https://icev-97775-default-rtdb.firebaseio.com',
+    storageBucket: 'icev-97775.firebasestorage.app',
     iosBundleId: 'com.example.projetoIntegrador',
   );
-
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCy4bWdbAFxRrHXKpGP4YVSoMZ91A0wGtI',
-    appId: '1:1064990210827:ios:06d573d95ec0ab432a000e',
-    messagingSenderId: '1064990210827',
-    projectId: 'projetointegrador-4fabf',
-    databaseURL: 'https://projetointegrador-4fabf-default-rtdb.firebaseio.com',
-    storageBucket: 'projetointegrador-4fabf.firebasestorage.app',
-    iosClientId: '1064990210827-rt95q1tam0okjgvtbpbj62fp9fofhdm4.apps.googleusercontent.com',
+    apiKey: 'AIzaSyCFIgP1Q96E6QaReOQjenz_WcCxEsfdLg8',
+    appId: '1:300037370787:ios:7dddc990d5da56cb6a6016',
+    messagingSenderId: '300037370787',
+    projectId: 'icev-97775',
+    databaseURL: 'https://icev-97775-default-rtdb.firebaseio.com',
+    storageBucket: 'icev-97775.firebasestorage.app',
     iosBundleId: 'com.example.projetoIntegrador',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDt4PVUlzp-KXNFw7iLxw3Johqx99Yp48Y',
-    appId: '1:1064990210827:web:906013b95be53c162a000e',
-    messagingSenderId: '1064990210827',
-    projectId: 'projetointegrador-4fabf',
-    authDomain: 'projetointegrador-4fabf.firebaseapp.com',
-    databaseURL: 'https://projetointegrador-4fabf-default-rtdb.firebaseio.com',
-    storageBucket: 'projetointegrador-4fabf.firebasestorage.app',
-    measurementId: 'G-ME2FQP2T3K',
+    apiKey: 'AIzaSyAkrzQA5TEMNyJeg15FVSxk3rTGthuZkpA',
+    appId: '1:300037370787:web:238b0c54faef3b756a6016',
+    messagingSenderId: '300037370787',
+    projectId: 'icev-97775',
+    authDomain: 'icev-97775.firebaseapp.com',
+    databaseURL: 'https://icev-97775-default-rtdb.firebaseio.com',
+    storageBucket: 'icev-97775.firebasestorage.app',
+    measurementId: 'G-MYRTZ49HJ3',
   );
-
 }
